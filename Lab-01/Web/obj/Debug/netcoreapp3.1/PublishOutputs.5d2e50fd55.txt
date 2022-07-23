@@ -1,0 +1,9 @@
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.exe
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.dll
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.deps.json
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.runtimeconfig.json
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.pdb
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.Views.dll
+C:\repositories\azure-204\Lab-01\Web\bin\Debug\netcoreapp3.1\publish\Web.Views.pdb
